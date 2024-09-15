@@ -1,0 +1,25 @@
+_id,date,amount,category,description
+6693a7e19a952e0222c4e49b,2024-01-01,5000,Salary,January Salary
+6693a7e19a952e0222c4e49c,2024-01-15,200,Freelance,Project Payment
+6693a7e19a952e0222c4e49d,2024-02-01,5000,Salary,February Salary
+6693a7e19a952e0222c4e49e,2024-02-20,300,Freelance,Project Payment
+6693a7e19a952e0222c4e49f,2024-03-01,5000,Salary,March Salary
+6693a7e19a952e0222c4e4a0,2024-03-10,250,Freelance,Project Payment
+6693a7e19a952e0222c4e4a1,2024-04-01,5000,Salary,April Salary
+6693a7e19a952e0222c4e4a2,2024-04-25,400,Freelance,Project Payment
+6693a7e19a952e0222c4e4a3,2024-05-01,5000,Salary,May Salary
+6693a7e19a952e0222c4e4a4,2024-05-15,350,Freelance,Project Payment
+6693a7e19a952e0222c4e4a5,2024-06-01,5000,Salary,June Salary
+6693a7e19a952e0222c4e4a6,2024-06-10,500,Freelance,Project Payment
+6693a7e19a952e0222c4e4a7,2024-07-01,5000,Salary,July Salary
+6693a7e19a952e0222c4e4a8,2024-07-20,450,Freelance,Project Payment
+6693a7e19a952e0222c4e4a9,2024-08-01,5000,Salary,August Salary
+6693a9b59abf216ed0c4e49b,2024-08-17,400,Freelance,Projecr Payment
+6693aa6f9abf216ed0c4e49c,2024-09-01,7000,Salary,Septmeber Salary
+6693aa6f9abf216ed0c4e49d,2024-09-08,650,Freelance,Project Payment
+6693aaab9abf216ed0c4e49e,2024-10-01,6000,Salary,October Salary
+6693aaab9abf216ed0c4e49f,2024-10-10,450,Freelance,Project Payment
+6693aad29abf216ed0c4e4a0,2024-11-01,6500,Salary,November Salary
+6693aad29abf216ed0c4e4a1,2024-11-15,350,Freelance,Project Payment
+6693aafd9abf216ed0c4e4a2,2024-12-01,8500,Salary,December Salary
+6693aafd9abf216ed0c4e4a3,2024-12-17,300,Freelance,Project Payment
